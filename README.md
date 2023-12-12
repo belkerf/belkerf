@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaouad belkerf</h1>
 <h3 align="center">A passionate frontend developer from Moroco</h3>
-<iframe src="https://giphy.com/embed/uurtMtTKqkJda4dk8Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-uurtMtTKqkJda4dk8Y">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belkerf&label=Profile%20views&color=0e75b6&style=flat" alt="belkerf" /> </p>
 
